@@ -61,3 +61,6 @@ Bu projeyi geliştirmek için bazı planlarım var:
 Daha büyük ve kapsamlı veri setleriyle çalışarak sonuçların genellenebilirliğini test etmek.
 Zaman serisi analizi ekleyerek döviz kuru dalgalanmalarının maaşlar üzerindeki etkisini incelemek.
 Makine öğrenimi yöntemleriyle sektörlere göre maaş tahmin modelleri geliştirmek.
+
+
+https://www.kaggle.com/code/lucimert/aygaz-ver-anal-z/edit
